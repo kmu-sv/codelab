@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(void) {
-  cout << "Hello, World!" << endl;
+  std::cout << "Hello, World!" << endl;
+  std::cout << "Welcome to KMU Bootcamp!" << endl;
   return 0;
 }
