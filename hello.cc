@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(void) {
-  cout << "Hello, World!" << endl;
-  return 0;
+  std::cout << "Hello, World!" << endl;
+  std::cout << "Welcome to KMU Bootcamp!" << endl;
 }
