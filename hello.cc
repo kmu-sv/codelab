@@ -2,7 +2,6 @@
 using namespace std;
 
 int main(void) {
-  std::cout << "Hello, World!" << endl;
-  std::cout << "Welcome to KMU Bootcamp!" << endl;
+  std::cout << "This is my first commit!" << endl;
   return 0;
 }
