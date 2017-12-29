@@ -1,6 +1,8 @@
-print("hello")
-print("hello")
-print("hello")
-print("hello")
-print("hello")
-print("hello")
+cnt = 0
+
+while cnt < 10:
+	cnt += 1
+
+	print("hello")
+
+	pass
